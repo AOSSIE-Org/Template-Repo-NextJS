@@ -17,8 +17,7 @@
 <!-- Organization/Project Social Handles -->
 <p align="center">
   <a href="https://t.me/+bMWGzaMTMa8xN2Ex">
-    <img src="https://img.shields.io/badge/Telegram_AOSSIE-black?style=flat&logo=telegram&logoColor=white&color=24A1DE" alt="Telegram Badge"/>
-  </a>
+    <img src="https://img.shields.io/badge/Telegram_AOSSIE-black?style=flat&logo=telegram&logoColor=white&color=24A1DE" alt="Telegram Badge"/></a>
   &nbsp;
   <a href="https://x.com/aossie_org">
     <img src="https://img.shields.io/twitter/follow/aossie_org" alt="X Badge"/>
