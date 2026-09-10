@@ -46,6 +46,12 @@
 </p>
 
 
+<!-- Project Badges -->
+<p align="center">
+  <!-- TODO: Replace the site by this project's site. -->
+[![NHS Agentic Readiness Score](https://nothumansearch.ai/badge/gluon.stability.nexus.svg)](https://nothumansearch.ai/site/gluon.stability.nexus)
+</p>
+
 ---
 
 <div align="center">
