@@ -16,32 +16,19 @@
 
 <!-- Organization/Project Social Handles -->
 <p align="center">
-  <a href="https://t.me/+bMWGzaMTMa8xN2Ex">
-    <img src="https://img.shields.io/badge/Telegram_AOSSIE-black?style=flat&logo=telegram&logoColor=white&color=24A1DE" alt="Telegram Badge"/></a>
+  <a href="https://t.me/+bMWGzaMTMa8xN2Ex"><img src="https://img.shields.io/badge/Telegram_AOSSIE-black?style=flat&logo=telegram&logoColor=white&color=24A1DE" alt="Telegram Badge"/></a>
   &nbsp;
-  <a href="https://x.com/aossie_org">
-    <img src="https://img.shields.io/twitter/follow/aossie_org" alt="X Badge"/>
-  </a>
+  <a href="https://x.com/aossie_org"><img src="https://img.shields.io/twitter/follow/aossie_org" alt="X Badge"/></a>
   &nbsp;
-  <a href="https://discord.gg/hjUhu33uAn">
-    <img src="https://img.shields.io/discord/995968619034984528?style=flat&logo=discord&logoColor=white&label=Discord%20AOSSIE&labelColor=5865F2&color=57F287" alt="Discord AOSSIE"/>
-  </a>
+  <a href="https://discord.gg/hjUhu33uAn"><img src="https://img.shields.io/discord/995968619034984528?style=flat&logo=discord&logoColor=white&label=Discord%20AOSSIE&labelColor=5865F2&color=57F287" alt="Discord AOSSIE"/></a>
   &nbsp;
-  <a href="https://discord.gg/YzDKeEfWtS">
-    <img src="https://img.shields.io/discord/995968619034984528?style=flat&logo=discord&logoColor=white&label=Discord%20Stability%20Nexus&labelColor=5865F2&color=57F287" alt="Discord Stability Nexus"/>
-  </a>
+  <a href="https://discord.gg/YzDKeEfWtS"><img src="https://img.shields.io/discord/995968619034984528?style=flat&logo=discord&logoColor=white&label=Discord%20Stability%20Nexus&labelColor=5865F2&color=57F287" alt="Discord Stability Nexus"/></a>
   &nbsp;
-  <a href="https://www.linkedin.com/company/aossie/">
-    <img src="https://img.shields.io/badge/LinkedIn_AOSSIE-black?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2" alt="LinkedIn Badge"/>
-  </a>
+  <a href="https://www.linkedin.com/company/aossie/"><img src="https://img.shields.io/badge/LinkedIn_AOSSIE-black?style=flat&logo=LinkedIn&logoColor=white&color=0A66C2" alt="LinkedIn Badge"/></a>
   &nbsp;
-  <a href="https://www.youtube.com/@AOSSIE-Org">
-    <img src="https://img.shields.io/badge/Subscribe_to_AOSSIE-red?style=flat&logo=youtube&logoColor=white" alt="Subscribe to AOSSIE"/>
-  </a>
+  <a href="https://www.youtube.com/@AOSSIE-Org"><img src="https://img.shields.io/badge/Subscribe_to_AOSSIE-red?style=flat&logo=youtube&logoColor=white" alt="Subscribe to AOSSIE"/></a>
   &nbsp;
-  <a href="https://www.youtube.com/@StabilityNexus">
-    <img src="https://img.shields.io/badge/Subscribe_to_Stability_Nexus-red?style=flat&logo=youtube&logoColor=white" alt="Subscribe to Stability Nexus"/>
-  </a>
+  <a href="https://www.youtube.com/@StabilityNexus"><img src="https://img.shields.io/badge/Subscribe_to_Stability_Nexus-red?style=flat&logo=youtube&logoColor=white" alt="Subscribe to Stability Nexus"/></a>
 </p>
 
 
