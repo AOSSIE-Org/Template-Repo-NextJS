@@ -31,11 +31,6 @@
   <a href="https://www.youtube.com/@StabilityNexus"><img src="https://img.shields.io/badge/Subscribe_to_Stability_Nexus-red?style=flat&logo=youtube&logoColor=white" alt="Subscribe to Stability Nexus"/></a>
 </p>
 
-
-<!-- Project Badges -->
-  <!-- TODO: Replace the site by this project's site. -->
-[![NHS Agentic Readiness Score](https://nothumansearch.ai/badge/gluon.stability.nexus.svg)](https://nothumansearch.ai/site/gluon.stability.nexus)
-
 ---
 
 <div align="center">
@@ -45,6 +40,10 @@
 TODO: Project Description.
 
 A high-performance, developer-friendly webpage built on **Next.js 16 (App Router)**, **React 19**, **Tailwind CSS v4**, and pre-configured for **Internationalization (i18n)** and **Localization (l10n)** using **next-intl**.
+
+<!-- Project Badges -->
+  <!-- TODO: Replace the site by this project's site. -->
+[![NHS Agentic Readiness Score](https://nothumansearch.ai/badge/gluon.stability.nexus.svg)](https://nothumansearch.ai/site/gluon.stability.nexus)
 
 ---
 
