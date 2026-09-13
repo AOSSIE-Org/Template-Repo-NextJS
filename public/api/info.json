@@ -1,0 +1,20 @@
+{
+  "name": "TODO: Project Name (AOSSIE Webpage Starter)",
+  "version": "1.0.0",
+  "description": "TODO: Project Description (AOSSIE Webpage Starter)",
+  "repository": "https://github.com/AOSSIE-Org/Template-Repo-NextJS",
+  "documentation": "https://TODO:project.aossie.org/api/",
+  "features": [
+    "Next.js 16 (App Router)",
+    "React 19",
+    "Tailwind CSS v4",
+    "Internationalization (next-intl)",
+    "AI Agent Readiness (LLMs.txt, OpenAPI, MCP)"
+  ],
+  "links": {
+    "home": "https://TODO:project.aossie.org/",
+    "docs": "https://TODO:project.aossie.org/api/",
+    "openapi": "https://TODO:project.aossie.org/openapi.json",
+    "llms": "https://TODO:project.aossie.org/llms.txt"
+  }
+}

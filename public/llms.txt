@@ -37,3 +37,11 @@ This repository is a high-performance webpage built on **Next.js 16 (App Router)
 ## 📦 Build Commands
 - **Build:** `npm run build`
 - **Develop:** `npm run dev`
+---
+
+## 🤖 AI & Machine-Readable Interfaces
+- [API Reference](/api/): Available API endpoints
+- [OpenAPI Spec](/openapi.json): Machine-readable OpenAPI 3.0.1 specification
+- [AI Plugin Manifest](/.well-known/ai-plugin.json): OpenAI plugin manifest
+- [MCP Manifest](/.well-known/mcp.json): Model Context Protocol server configuration
+- [Project Info](/api/info.json): Structured project metadata endpoint
