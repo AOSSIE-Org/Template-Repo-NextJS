@@ -1,0 +1,58 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "TODO: Project Name API (AOSSIE Webpage Starter)",
+    "version": "1.0.0",
+    "description": "API specification for TODO: Project (AOSSIE webpage starter). Replace this description with your project's purpose."
+  },
+  "servers": [
+    {
+      "url": "https://TODO:project.aossie.org",
+      "description": "Production server (Replace with your actual production domain)"
+    }
+  ],
+  "paths": {
+    "/api/info.json": {
+      "get": {
+        "summary": "Get project metadata and ecosystem information",
+        "description": "Returns structured JSON with project metadata, version, features, and links.",
+        "responses": {
+          "200": {
+            "description": "Project information",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ProjectInfo"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "ProjectInfo": {
+        "type": "object",
+        "properties": {
+          "name": {
+            "type": "string",
+            "example": "TODO: Project Name (AOSSIE Webpage Starter)"
+          },
+          "version": {
+            "type": "string",
+            "example": "1.0.0"
+          },
+          "description": {
+            "type": "string",
+            "example": "TODO: Project Description (AOSSIE Webpage Starter)"
+          },
+          "links": {
+            "type": "object"
+          }
+        }
+      }
+    }
+  }
+}

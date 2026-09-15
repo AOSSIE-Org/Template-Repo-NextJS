@@ -62,12 +62,49 @@ export default async function RootLayout({
   // Provide messages to Client Components directly via messagesMap
   const messages = messagesMap[locale] || defaultMessages;
 
+  // Schema.org structured data for AI agent discoverability
+  // Replace fallback domain 'https://TODO:project.aossie.org' with your target production domain.
+  const rawSiteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://TODO:project.aossie.org";
+  const siteUrl = rawSiteUrl.replace(/\/$/, "");
+
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${siteUrl}/#website`,
+        "url": `${siteUrl}/`,
+        "name": "TODO: Project Name (AOSSIE Webpage Starter)",
+        "description": "TODO: Project Description (AOSSIE Webpage Starter)",
+      },
+      {
+        "@type": "SoftwareApplication",
+        "@id": `${siteUrl}/#application`,
+        "name": "TODO: Project Name (AOSSIE Webpage Starter)",
+        "applicationCategory": "WebApplication",
+        "operatingSystem": "Web",
+        "url": `${siteUrl}/`,
+        "author": {
+          "@type": "Organization",
+          "name": "AOSSIE",
+          "url": "https://aossie.org",
+        },
+      },
+    ],
+  };
+
   return (
     <html
       lang={locale}
       className={`${inter.variable} ${devanagari.variable} h-full antialiased`}
       suppressHydrationWarning
     >
+      <head>
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+        />
+      </head>
       <body className="min-h-full flex flex-col bg-background text-foreground" suppressHydrationWarning>
         <NextIntlClientProvider locale={locale} messages={messages} timeZone="UTC">
           <ThemeProvider>
@@ -80,5 +117,3 @@ export default async function RootLayout({
     </html>
   );
 }
-
-

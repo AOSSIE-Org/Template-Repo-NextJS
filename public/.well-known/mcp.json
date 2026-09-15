@@ -1,0 +1,15 @@
+{
+  "schema_version": "v1",
+  "name": "TODO: Project Name MCP Server (AOSSIE Webpage Starter)",
+  "description": "Model Context Protocol server for TODO: Project (AOSSIE webpage starter)",
+  "version": "1.0.0",
+  "transport": {
+    "type": "sse",
+    "url": "https://TODO:project.aossie.org/api/mcp"
+  },
+  "capabilities": {
+    "tools": true,
+    "resources": true,
+    "prompts": true
+  }
+}
